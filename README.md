@@ -51,24 +51,7 @@ Machine Lrn  ██████░░░░ 60%
 - Arduino Based System
 - Vibration Sensor Detection
 - GPS Location Tracking
-- GSM Emergency Notifications
-
----
-
-## 🏆 GitHub Stats
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=G-MADHAN16&show_icons=true&theme=tokyonight"/>
-</p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=G-MADHAN16&show_icons=true&theme=tokyonight&cache_seconds=1800"/>
-</p>
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=G-MADHAN16&layout=compact&theme=tokyonight"/>
-</p>
-
----
-
+- GSM Emergency Notification
 ## 🌐 Connect With Me
 
 📧 madhangunasekaran1622@gmail.com
