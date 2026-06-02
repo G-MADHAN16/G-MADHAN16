@@ -26,15 +26,12 @@
 
 ## 📊 Skill Level
 
-```text
-Java         █████████░ 90%
-Python       ████████░░ 80%
-HTML/CSS     █████████░ 90%
-JavaScript   ████████░░ 80%
-React.js     ███████░░░ 70%
-MySQL        ████████░░ 80%
-IoT          ███████░░░ 70%
-Machine Lrn  ██████░░░░ 60%
+## 🛠 Tech Stack
+
+![Java](https://img.shields.io/badge/Java-90%25-success?style=for-the-badge)
+![Python](https://img.shields.io/badge/Python-80%25-blue?style=for-the-badge)
+![React-70%25](https://img.shields.io/badge/React-70%25-informational?style=for-the-badge)
+![MySQL-80%25](https://img.shields.io/badge/MySQL-80%25-orange?style=for-the-badge)
 ```
 
 ## 🚀 Projects
