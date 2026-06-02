@@ -26,12 +26,16 @@
 
 ## 📊 Skill Level
 
-## 🛠 Tech Stack
-
-![Java](https://img.shields.io/badge/Java-90%25-success?style=for-the-badge)
-![Python](https://img.shields.io/badge/Python-80%25-blue?style=for-the-badge)
-![React-70%25](https://img.shields.io/badge/React-70%25-informational?style=for-the-badge)
-![MySQL-80%25](https://img.shields.io/badge/MySQL-80%25-orange?style=for-the-badge)
+╔══════════════════════════════╗
+║      MADHAN'S SKILLS         ║
+╠══════════════════════════════╣
+║ Java        ⭐⭐⭐⭐⭐         ║
+║ Python      ⭐⭐⭐⭐☆         ║
+║ HTML/CSS    ⭐⭐⭐⭐⭐         ║
+║ JavaScript  ⭐⭐⭐⭐☆         ║
+║ React.js    ⭐⭐⭐☆☆         ║
+║ MySQL       ⭐⭐⭐⭐☆         ║
+╚══════════════════════════════╝
 ```
 
 ## 🚀 Projects
