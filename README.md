@@ -1,62 +1,104 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Madhan%20G&fontSize=60&fontAlignY=40&desc=Aspiring%20Java%20Full%20Stack%20Developer&descAlignY=60" />
+  <img src="banner.png" width="100%" />
 </p>
 
-<h3 align="center">💻 Java Full Stack Developer | 🚀 Web Development | 🤖 ML & IoT Enthusiast</h3>
-
----
-
-## 👨‍💻 About Me
-
-🎓 B.Tech Information Technology (2023–2027)  
-🏫 Vel Tech High Tech Dr. Rangarajan Dr. Sakunthala Engineering College  
-📚 CGPA: 8.16/10  
-🌱 Currently learning Java Full Stack Development  
-⚡ Interested in Machine Learning and IoT Projects
-
----
-
-## 🔥 Skills
+<h1 align="center">Madhan G</h1>
+<h3 align="center">Aspiring Java Full Stack Developer</h3>
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=java,python,react,html,css,javascript,mysql,git,github,vscode" />
+  <a href="mailto:madhangunasekaran1622@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-blue?style=for-the-badge">
+  </a>
+  <a href="https://linkedin.com/in/madhan1623">
+    <img src="https://img.shields.io/badge/LinkedIn-Profile-blue?style=for-the-badge&logo=linkedin">
+  </a>
+  <a href="https://github.com/G-MADHAN16">
+    <img src="https://img.shields.io/badge/GitHub-Profile-black?style=for-the-badge&logo=github">
+  </a>
 </p>
 
 ---
 
-## 📊 Skill Level
+# 👨‍💻 About Me
 
-╔══════════════════════════════╗
-║      MADHAN'S SKILLS         ║
-╠══════════════════════════════╣
-║ Java        ⭐⭐⭐⭐⭐         ║
-║ Python      ⭐⭐⭐⭐☆         ║
-║ HTML/CSS    ⭐⭐⭐⭐⭐         ║
-║ JavaScript  ⭐⭐⭐⭐☆         ║
-║ React.js    ⭐⭐⭐☆☆         ║
-║ MySQL       ⭐⭐⭐⭐☆         ║
-╚══════════════════════════════╝
+```yaml
+Name      : Madhan G
+Degree    : B.Tech Information Technology
+College   : Vel Tech High Tech Dr. Rangarajan Dr. Sakunthala Engineering College
+CGPA      : 8.16 / 10
+Role      : Java Full Stack Developer
+Interest  : Web Development, Machine Learning, IoT
 ```
-
-## 🚀 Projects
-
-### 🚨 Women Safety by Scream Detection Using ML
-
-- Scream Detection using Machine Learning
-- Emergency SMS Alerts
-- Live Location Sharing
-- Android Studio Application
-
-### 🚗 IoT Accident Detection & Prevention System
-
-- Arduino Based System
-- Vibration Sensor Detection
-- GPS Location Tracking
-- GSM Emergency Notifications
 
 ---
 
-## 🏆 GitHub Stats
+# 🚀 Tech Stack
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=java,python,html,css,js,react,mysql,git,github,vscode" />
+</p>
+
+---
+
+# ⚡ Skill Matrix
+
+| Skill | Level |
+|--------|--------|
+| Java | █████████░ 90% |
+| Python | ████████░░ 80% |
+| HTML | █████████░ 90% |
+| CSS | █████████░ 90% |
+| JavaScript | ████████░░ 80% |
+| React.js | ███████░░░ 70% |
+| MySQL | ████████░░ 80% |
+
+---
+
+# 📂 Projects
+
+## 🚨 Women Safety by Scream Detection Using ML
+
+- ML-based scream detection
+- Emergency SMS alerts
+- Live location sharing
+- Android Studio application
+
+## 🚗 IoT-Based Accident Detection, Notification and Prevention
+
+- Arduino-based system
+- Vibration sensor detection
+- GPS tracking
+- GSM emergency notifications
+
+---
+
+# 💼 Internship
+
+### Web Development Intern | HDLC, Chennai
+
+- Developed dynamic web interfaces using HTML, CSS and JavaScript
+- Collaborated on backend APIs using Node.js
+- Improved page load performance
+
+---
+
+# 🏆 Achievements
+
+- CodeThon Participant – Solved 15+ coding problems
+- Ideathon Participant – Proposed AI-based waste management system
+- Presented IoT research paper at Alpha Engineering College
+
+---
+
+# 📜 Certifications
+
+- Java Programming – Great Learning
+- Python – HackerRank
+- Data Structures & Algorithms – Great Learning
+
+---
+
+# 📊 GitHub Stats
 
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=G-MADHAN16&show_icons=true&theme=tokyonight"/>
@@ -68,16 +110,16 @@
 
 ---
 
-## 🌐 Connect With Me
+# 🌐 Connect
 
 📧 madhangunasekaran1622@gmail.com
 
-💼 LinkedIn: linkedin.com/in/madhan1623
+💼 linkedin.com/in/madhan1623
 
-🐙 GitHub: github.com/G-MADHAN16
+🐙 github.com/G-MADHAN16
 
 ---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=G-MADHAN16&label=Profile%20Views&color=0e75b6&style=flat" />
+<i>"Code is like humor. When you have to explain it, it's bad."</i>
 </p>
