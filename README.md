@@ -1,58 +1,82 @@
 <p align="center">
-  <img src="banner.png" alt="Banner" width="100%">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Madhan%20G&fontSize=60&fontAlignY=40&desc=Aspiring%20Java%20Full%20Stack%20Developer&descAlignY=60" />
 </p>
 
-<h1 align="center">Hi 👋, I'm Madhan</h1>
-
-<h3 align="center">Aspiring Java Full Stack Developer</h3>
-
-<p align="center">
-  <a href="mailto:madhangunasekaran1622@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge">
-  </a>
-  <a href="https://linkedin.com/in/madhan1623">
-    <img src="https://img.shields.io/badge/LinkedIn-Profile-blue?style=for-the-badge">
-  </a>
-  <a href="https://github.com/G-MADHAN16">
-    <img src="https://img.shields.io/badge/GitHub-Profile-black?style=for-the-badge">
-  </a>
-</p>
+<h3 align="center">💻 Java Full Stack Developer | 🚀 Web Development | 🤖 ML & IoT Enthusiast</h3>
 
 ---
 
 ## 👨‍💻 About Me
 
-- 🎓 B.Tech Information Technology (2023–2027)
-- 💻 Java Full Stack Developer
-- 🌱 Learning React.js, Spring Boot, and MySQL
-- 🤖 Interested in Machine Learning and IoT
-- 🚀 Building real-world software projects
+🎓 B.Tech Information Technology (2023–2027)  
+🏫 Vel Tech High Tech Dr. Rangarajan Dr. Sakunthala Engineering College  
+📚 CGPA: 8.16/10  
+🌱 Currently learning Java Full Stack Development  
+⚡ Interested in Machine Learning and IoT Projects
 
 ---
 
-## 🛠 Tech Stack
+## 🔥 Skills
 
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+<p align="center">
+<img src="https://skillicons.dev/icons?i=java,python,react,html,css,javascript,mysql,git,github,vscode" />
+</p>
 
 ---
+
+## 📊 Skill Level
+
+```text
+Java         █████████░ 90%
+Python       ████████░░ 80%
+HTML/CSS     █████████░ 90%
+JavaScript   ████████░░ 80%
+React.js     ███████░░░ 70%
+MySQL        ████████░░ 80%
+IoT          ███████░░░ 70%
+Machine Lrn  ██████░░░░ 60%
+```
 
 ## 🚀 Projects
 
-### Women Safety by Scream Detection Using ML
-- Scream Detection
-- Live Location Sharing
-- Emergency SMS Alerts
+### 🚨 Women Safety by Scream Detection Using ML
 
-### IoT-Based Accident Detection System
-- Vibration Sensor
-- GPS Tracking
-- GSM Notifications
+- Scream Detection using Machine Learning
+- Emergency SMS Alerts
+- Live Location Sharing
+- Android Studio Application
+
+### 🚗 IoT Accident Detection & Prevention System
+
+- Arduino Based System
+- Vibration Sensor Detection
+- GPS Location Tracking
+- GSM Emergency Notifications
 
 ---
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=G-MADHAN16&show_icons=true)
+## 🏆 GitHub Stats
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=G-MADHAN16&layout=compact)
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=G-MADHAN16&show_icons=true&theme=tokyonight"/>
+</p>
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=G-MADHAN16&layout=compact&theme=tokyonight"/>
+</p>
+
+---
+
+## 🌐 Connect With Me
+
+📧 madhangunasekaran1622@gmail.com
+
+💼 LinkedIn: linkedin.com/in/madhan1623
+
+🐙 GitHub: github.com/G-MADHAN16
+
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=G-MADHAN16&label=Profile%20Views&color=0e75b6&style=flat" />
+</p>
