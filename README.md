@@ -1,5 +1,9 @@
+<p align="center">
+  <img src="https://wallpapercave.com/wp/wp2757874.gif" width="100%" alt="Hacker Banner">
+</p>
+
 <h1 align="center">Hi 👋, I'm Madhan</h1>
-<h3 align="center">Aspiring Java Full Stack Developer</h3>
+<h3 align="center">Java Full Stack Developer</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=500&lines=Java+Full+Stack+Developer;Web+Development+Enthusiast;Machine+Learning+Explorer;IoT+Project+Developer" />
